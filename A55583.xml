@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Powell alias Hinson Esq; plaintiffe; the Warden and Fellows of All-soules Colledge in Oxford defendants In the Chancellors Court of the University of Oxford in a pretended cause of dammage.</title>
+            <author>Powell, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55583</idno>
+            <idno type="STC">Wing P3098A</idno>
+            <idno type="STC">ESTC R221774</idno>
+            <idno type="EEBO-CITATION">99833031</idno>
+            <idno type="PROQUEST">99833031</idno>
+            <idno type="VID">37506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37506)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Powell alias Hinson Esq; plaintiffe; the Warden and Fellows of All-soules Colledge in Oxford defendants In the Chancellors Court of the University of Oxford in a pretended cause of dammage.</title>
+                  <author>Powell, William.</author>
+                  <author>All Souls College (University of Oxford)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at end: November 10. 1656.</note>
+                  <note>"A matter of a renewed lease ... [which] was stated to be against the interest of Sir Edward Powell's executor, William Powell"--Madan.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Estates (Law) --  England --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37506:1" rendition="simple:additions"/>
+            <head>
+               <hi>William Powell</hi> alias <hi>Hinſon Eſq;</hi> Plain<g ref="char:EOLhyphen"/>tiffe; The Warden and Fellows of <hi>All-ſoules</hi> Colledge in <hi>Oxford</hi> Defendants.</head>
+            <head type="sub">In the Chancellors Court of the <g ref="char:V">Ʋ</g>niverſity of <hi>Oxford</hi> in a pretended Cauſe of Dammage.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Suit is in the nature of an Action of the Caſe at the Common Law, and the end of this Action is the ſame with that of an Action on the caſe at Law, and that is to have a Reparation by way of dammage for a wrong ſuppoſed to be done by the Defendants to the Plaintiffe.</p>
+            <p>The wrong complained of in the preſent Caſe is a preterition made by the Defendants of the Plaintiffe, in the re<g ref="char:EOLhyphen"/>newing of a Leaſe for years of a Meſuage and Lands in <hi>Wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> in the County of Oxon, which Leaſe, as the Plaintiffe pretends the Defen<g ref="char:EOLhyphen"/>dants have to his dammage renewed unto <hi>George Herne.</hi>
+            </p>
+            <list>
+               <item>1. Wherein I do agree firſt that the Leaſe hath been ſo renewed by the Defendants to <hi>George Herne.</hi>
+               </item>
+               <item>2. I do admit that this renewing was to the Plaintiffes dammage.</item>
+            </list>
+            <p>But as I ſhall repreſent the truth of the Caſe to be; I conceive this dammage ſo much complained of by this Action will fall out to be within the reaſon of thoſe Caſes of the Common Law, that being <hi>damnum abſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue injuria,</hi> there is no puniſhment of ſuch Acts by any re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ópence to be given in way of damage by any action whatſoever.</p>
+            <p>And therefore whereſoever a man hath liberty to do any act which no Law of the Land forbids, no Action at Law lieth againſt him for the doing of ſuch an Act.</p>
+            <p>A Schoole-maſter teaching Schoole in a Towne brought an Acti<g ref="char:EOLhyphen"/>on upon the Caſe againſt another that afterwards ſet up a Schoole in
+<pb n="2" facs="tcp:37506:2"/>the ſame Town whereby thoſe Schollars that before gave him twen<g ref="char:EOLhyphen"/>ty pence a quarter,<note place="margin">
+                  <hi>11</hi> Henry <hi>4.</hi> Stat. in ac<g ref="char:EOLhyphen"/>con. ſur le Caſe</note> now will give him but twelve pence a quarter, and this being <hi>damnum abſque injuria,</hi> it was adjudged that the Acti<g ref="char:EOLhyphen"/>on will not lye.</p>
+            <p>So in the Caſe of a new Mill, erected upon the ſame ſtreame, by a Lord of a Mannor, to the prejudice of the Lord of the next Man<g ref="char:EOLhyphen"/>nor, who hath an ancient Mill ſtanding upon the ſame ſtreame, whereby the ſute to the old Mill is leſſened and withdrawn, yet this Action lies not,<note place="margin">
+                  <hi>22</hi> of H. <hi>6 14.</hi> Bacon. jur le caſe, <hi>57.</hi> and <hi>42.</hi>
+               </note> for albeit it be a dammage to the Owner of the old Mill, yet it is <hi>abſque injuria,</hi> there being no Law that makes ſuch reſtraint either in the one caſe or in the other.</p>
+            <p>To apply this to the preſent Caſe, there are three Competitors to the Defendants for the renewing of the ſaid Leaſe at <hi>Whately.</hi>
+            </p>
+            <list>
+               <item>1. The Plaintiffe as Executor to Sir <hi>Edward Powell.</hi>
+               </item>
+               <item>2. Mr <hi>Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eman.</hi>
+               </item>
+               <item>3. Mr <hi>George Herne.</hi>
+               </item>
+            </list>
+            <p>The Colledge being the Defendants, are not only not prohibited, nor under any reſtraint for the renewing of it, but are rather enabled by the Statute of 18. <hi>Eliz.</hi> the preſent Leaſe being run within three yeares of expiration, to renew this Leaſe to whom they pleaſe.</p>
+            <p>So as this being a power recommended to their own liberty, and being by them executed according to their power to them given by that Law, <hi>legis executio non habet injuriam,</hi> and no man can be ſaid to do a wrong, <hi>qui jure ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur.</hi>
+            </p>
+            <p>The Defendants are the more to be juſtified herein, for that they did not meerely as an act of power, nor inconſiderately renew it; but firſt calling in all parties, and ſuffering them to interplead before them, and hearing, and examining their reaſons, <hi>hinc &amp; inde,</hi> they did at length upon a full and deliberate conſideration declare the right of renewing this Leaſe to belong to <hi>George Herne,</hi> and accordingly re<g ref="char:EOLhyphen"/>newed it to him; wherein I conceive that both in Law and Equity they have done an Act that is moſt Collegiate, and ſuch as beſt ſuits with the honour of their Colledge: and this will the better appeare by the Caſe it ſelfe as it ſtands in judgement upon the ſeries and courſe of the Leaſes themſelves made by their Predeceſſors of this Land now in queſtion.</p>
+            <p>
+               <hi>Richard Powell</hi> being in the yeare 1634. poſſeſt of a Leaſe for years before that time made by <hi>All-ſoules</hi> Colledge, does in the ſaid yeare 1634. without making any actuall ſurrender thereof, accept of a new Leaſe for yeares there of from the ſaid Colledge.</p>
+            <p>This his acceptance of the ſaid new Leaſe is in Law an abſolute ſurrender of that old Leaſe, albeit no actuall ſurrender were by him
+<pb n="3" facs="tcp:37506:2"/>made of the ſaid old Leaſe, and the neglect of the then Warden and Scholars of the ſaid Colledge to take in the ſaid old Leaſe is no hinderance at all to the operation of the ſaid ſurrender in Law.</p>
+            <p>Then doth <hi>Richard Powell</hi> in the yeare 1638. for 200. li. to him paid by <hi>Bateman,</hi> affigne this renewed Leaſe unto <hi>Bateman,</hi> this is a good aſſignment of a good Leaſe, then in being unto <hi>Bateman.</hi>
+            </p>
+            <p>After this <hi>Richard Powell</hi> having ſtill in his hands the ſaid old Leaſe not actually ſurrendred, but yet determined by ſuch ſurrender in Law <hi>(ut ſupra)</hi> doth in the yeare 1639. for 340 li. paid by <hi>George Herne</hi> a<g ref="char:EOLhyphen"/>mongſt other things grant the ſaid old Leaſe and the Lands thereby demiſed to the ſaid <hi>George Herne,</hi> who preſently redemiſed the ſaid Lands unto the ſaid <hi>Richard Powell</hi> at 40. li. rent <hi>per annum</hi> and <hi>Powell</hi> ſtill retained in his own hands the ſaid old Leaſe.</p>
+            <p>The ſaid <hi>Richard Powell</hi> afterwards in the yeare 1641. repaires to the Colledge, and concealing from them his ſaid aſſignment to <hi>Bate<g ref="char:EOLhyphen"/>man,</hi> and his ſaid grant to <hi>Herne,</hi> without the privity or concurrents of the ſaid <hi>Bateman</hi> and <hi>Herne,</hi> by their joyning with him in their making of an actuall ſurrender of their, or either of their eſtates to the ſaid Colledge, upon his giving in of the ſaid old Leaſe made in the yeare of our Lord, 1626. obtaines a new Leaſe from the ſaid Colledge to begin immediately, which he afterwards mortgaged to Sir <hi>Edward Powell.</hi>
+            </p>
+            <p n="1">1. The Leaſe renewed in 1634. to <hi>Richard Powell,</hi> then being Te<g ref="char:EOLhyphen"/>nant in poſſeſſion, and which he afterwards aſſigned to <hi>Bateman,</hi> was the only good Leaſe in the Caſe.</p>
+            <p n="2">2. The grant to <hi>Herne</hi> of an old Leaſe then pretended to be <hi>in eſſe,</hi> is not good in regard the Leaſe intended was determined by <hi>Powels</hi> acceptance of a new Leaſe in 1634.</p>
+            <p n="3">3. The Colledge new Leaſe to <hi>Richard Powell</hi> in the yeare 1641. was void, for that the Leaſe to <hi>Bateman</hi> was then in being for many yeares then to come, and that Leaſe not then ſurrendred.</p>
+            <p n="4">4. <hi>Batemans</hi> Leaſe comming afterwards within three yeares of ex<g ref="char:EOLhyphen"/>piration, the Colledge had then power to let a Leaſe to whom they pleaſed.</p>
+            <p>And they afterwards making this Leaſe to <hi>George Herne,</hi> this is a good execution of their power to them given by the Statute; and al<g ref="char:EOLhyphen"/>beit a dammage of the Plaintiffes expectation to renew, yet no inju<g ref="char:EOLhyphen"/>ry at all to the Plaintiffe for the reaſons before delivered.</p>
+            <p>And ſo no cauſe of Action to the Plaintiffe.</p>
+            <p>As to the objection that <hi>Richard Powell</hi> upon ſuch his renewing in 1641. did pay to the Colledge 26. li. 13. s. 4. d. for a Fine.</p>
+            <p>It is anſwered, if any ſuch money were by him paid for ſuch a void
+<pb n="4" facs="tcp:37506:3"/>Leaſethen to him made, and by him afterwards aſſigned to Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Powell</hi> this 26. li. 13. s. 4. d. and the dammages for the ſame if any due to any perſon, is due in equity to the Executors of the ſaid <hi>Ri<g ref="char:EOLhyphen"/>chard Powell,</hi> who in his own wrong departed with that money and cannot at all be due to the Plaintiffe as Executor of Sir <hi>Edward Po<g ref="char:EOLhyphen"/>well,</hi> who as to that payment was and is a meere ſtranger to the Col<g ref="char:EOLhyphen"/>ledge, nor doth the now Plaintiffe by his Libell make any claime thereunto.</p>
+            <closer>
+               <dateline>
+                  <date>26 <hi>Septem.</hi> 1656.</date>
+               </dateline>
+               <signed>Charles Holloway <hi>for the Defendants.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:37506:3"/>
+            <head>William Powell <hi>Eſquire, Plaintiff.</hi>
+            </head>
+            <head type="sub">The Warden and Fellowes of <hi>All ſoules</hi> Colledge in <hi>Oxon,</hi> Defendants, in the Chancellors Court of the Vniverſity of <hi>Oxon,</hi> in a Cauſe of damages.</head>
+            <p>THere is no cauſe why the Flaintiff ſhould recover dammages a<g ref="char:EOLhyphen"/>gainſt the Defendants, for theſe reaſons.</p>
+            <p n="1">1. There is neither Law nor equity to compell them to Leaſe their land to any one; for it was lawfull for them to doe what they would with their own, obſerving this rule, <hi>ſic utere tuo ut alienum non ledas,</hi> as here they did, for they did no hurt to Sir <hi>Edward Powell</hi> by making their Leaſe to <hi>Heron,</hi> but leſt Sir <hi>Edward</hi> as they found him.</p>
+            <p n="2">2 <hi>Heron</hi> was firſt deceived, and it was good reaſon he ſhould be firſt repaired; <hi>Qui prior eſt tempore poti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r eſt jure.</hi>
+            </p>
+            <p n="3">3 But if the Colledge had made the laſt leaſe to Sir <hi>Edward Pow<g ref="char:EOLhyphen"/>ell;</hi> had not <hi>Heron</hi> as good equity to have ſued the Colledge for dam<g ref="char:EOLhyphen"/>mages, as Sir <hi>Edward Powels</hi> Executors pretends to now? certainly there had been <hi>aequale jus,</hi> if any there was at all in either ſide to ſue the Colledge.</p>
+            <p n="4">4. All the pretence for the Plaintiff, is, becauſe his teſtator bought the laſt leaſe made in 1641. This in truth was no Leaſe, it being made void by Act of Parliament of 18. <hi>Eliz.</hi> in which every mans conſent was had for him and his heirs, that ſuch Leaſe ſhould be void becauſe the former was not within three yeers of expiration, which was unknown to the Colledge, but well known to <hi>Richard Powell</hi> the Leſſee, who wittingly deceived himſelfe, that he might cozen Sir <hi>Edward Powell,</hi> the Plaintiffs teſtator.</p>
+            <p n="5">5. If the caſe were of a body naturall, and that the Plaintiff or his teſtator had ſuſteined damage by it by an act done unawares (as here by making a void Leaſe) yet <hi>ignorantia facti excuſat.</hi>
+            </p>
+            <p n="6">6. No crime can be imputed to a body politick aggregate, and this ſute is brought againſt a body politick, and the charge of this Libell is grounded upon a deceipt in making a Leaſe to a wrong man, which as is ſuppoſed, ought to have been made to the Plaintiffs teſtator. Now deceipt is a crime, and a body without a ſoule (although it be <hi>All<g ref="char:EOLhyphen"/>ſoules)</hi> cannot be guilty of a crime, and ſo not be charged to pay dam<g ref="char:EOLhyphen"/>ages,
+<pb n="6" facs="tcp:37506:4"/>or any way puniſhable for a crime: And therefore if any ſute would have lien, it muſt have been againſt ſome naturall perſons of that body; but to charge them as a body politick, there is no colour.</p>
+            <p n="7">7. As for the fine paid to the Colledge for the void Leaſe, he paid it of his owne wrong; for <hi>non decipitur qui ſcit ſe decipi,</hi> he knew well he paid it for a void Leaſe, and on purpoſe to cozen ſome body with it, As appears by his ſo ſpeedy putting it to ſale to Sir <hi>Edward Powell.</hi> And it is cleer this <hi>Richard Powell</hi> (if he were living) could have no remedy againſt the Colledge to recover back this fine; for if he ſhould, it would give countenance to ſuch fraudulent practiſes which the Law abhorreth; and by like reaſon this <hi>Richard Powel</hi>'s Executor, nor any claiming from him can be in better caſe to recover the fine back againe, then <hi>Richard Powell</hi> himſelfe was; for <hi>titulus derivativus</hi> can be no better then <hi>primitivus:</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>November <hi>8. 1656.</hi>
+                  </date>
+               </dateline>
+               <signed>Tym. Tourneur.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:37506:4"/>
+            <head>
+               <hi>William Powell</hi> alias <hi>Hinſon</hi> Eſquire, Plaintiff. The Warden and Fellowes of <hi>All-Soules</hi> Colledge in <hi>Oxford,</hi> Defendants.</head>
+            <head type="sub">In the Chancellors Court of the Univerſity of <hi>Oxford,</hi> in a pretended Cauſe of damage.</head>
+            <p n="1">1. I Conceive that the Leaſe being void by an Act of Parliament, no remedy lies againſt the Colledge, becauſe the Act which makes it void, gives no remedy, it being lawfull and valid before.</p>
+            <p n="2">2. I conceive no remedy for this void Leaſe doth lie againſt the Colledge, becauſe in ſuch caſes no remedy was ever given, or dam<g ref="char:EOLhyphen"/>ages ever recovered, though many void leaſes have been made ſince the Stat. of 13. and 18. <hi>Eliz.</hi>
+            </p>
+            <p n="3">3. The Stat. of 18. <hi>Eliz.</hi> reſolves the queſtion, for that Stat. makes void all Bonds and Covenants entred into for making good ſuch void leaſes. Now Bonds and Covenants cannot make the Leaſe va<g ref="char:EOLhyphen"/>lid that is void, but only give a ſatisfaction by way of damages; But by that Law ſuch ſecurities as ſound in ſatisfaction and damages, are made void; <hi>à fortiori,</hi> an equity imploid is void, for <hi>equit as ſequitur le<g ref="char:EOLhyphen"/>ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi>
+            </p>
+            <p n="4">4. And in truth, if an equity ſhould be good againſt the Colledge to make ſatisfaction for the damages which ſuch perſons ſhould ſuſtain for want of an intreſt in law in the lands, then the Stat. <hi>ex obliquo</hi> muſt needs be evaded, and eccleſiaſticall corporations in ſucceſſion depau<g ref="char:EOLhyphen"/>perated (the miſchief ſolely intended to be remedied by the law) for the recovery of damages, being againſt the corporation, not againſt the naturall individuall perſons, that made that Leaſe void, and received the benefit of the Fine, then it doth clearly follow though the corpo<g ref="char:EOLhyphen"/>ration in ſucceſſion enjoies the land and the profits of it, yet if they muſt yeild as much in dammages, what is this more in effect, but re<g ref="char:EOLhyphen"/>ceiving with one hand, and paying with another? And ſo the Col<g ref="char:EOLhyphen"/>ledge in ſucceſſion is deteriorated in the matters provided againſt by the Parliament.</p>
+            <q>Fruſtrapetis qued ſtatim reddere cogeris.</q>
+            <p n="5">5. Though the Colledge have collaterall ſecurity to ſave them harm<g ref="char:EOLhyphen"/>leſſe; for what by law ſhall be recovered againſt them in ſuch a caſe, if by law nothing can be recovered againſt them (though <hi>de facto</hi> there be an appearance of it) they ſhall never have any benefit of their collaterall ſecurity, ſo the Colledge is the party politick againſt whom theſe damages muſt be effectually recover'd, and for a voluntary re-imburſement, it is no argument one way or other.</p>
+            <p n="6">6. For the Court where this controverſie is depending (<hi>viz.</hi>
+               <pb n="8" facs="tcp:37506:5"/>the Univerſity Court of <hi>Oxford,</hi> which Court cannot have jurisdi<g ref="char:EOLhyphen"/>ction in this cauſe for two reaſons.</p>
+            <p n="1">1. Becauſe they have no jurisdiction but by ancient uſage or Let<g ref="char:EOLhyphen"/>ters Patents. By uſage they can have no jurisdiction in this Cauſe, becauſe the ground of the queſtion or controverſie is upon the Stat. of 13. and 18. <hi>Eliz.</hi> there being no ſuch caſe that could come in que<g ref="char:EOLhyphen"/>ſtion before thoſe Statutes. So not by ancient uſage, and then not by Letters Patents, for they have no jurisdiction granted by Letters Pa<g ref="char:EOLhyphen"/>tents herein ſince thoſe Statutes.</p>
+            <p>And ſecondly, Becauſe the King cannot create a Court of equity by Charter; and there is no Act of Parliament that doth confirm their ju<g ref="char:EOLhyphen"/>risdiction herein, whether they will lay the foundation of their juris<g ref="char:EOLhyphen"/>diction herein, either by ancient uſage or Letters Patents, becauſe the Act of Parliament by which the jurisdiction of the Univerſity Courts of <hi>Oxford</hi> and <hi>Cambridge</hi> are confirmed, and which doth confirme their jurisdictions formerly enjoied by uſage or Letters Patents, is a Prior act, <hi>viz.</hi> (13 <hi>Eliz.</hi>) to the Act of Parliament upon which this queſtion doth properly ariſe, <hi>viz.</hi> 18. <hi>Eliz.</hi>
+            </p>
+            <p n="7">7. Admit they have a jurisdiction of the cauſe, yet they muſt judge <hi>ſecundum legem terrae</hi> according to the Law of the Land, and not ac<g ref="char:EOLhyphen"/>cording to the civill Law not formerly uſed in <hi>England.</hi>
+            </p>
+            <p n="1">1. Becauſe no part of the Civill Law is of force in <hi>England</hi> (not in the Eccleſiaſtical Courts of <hi>England</hi>) but what hath been anciently uſed in <hi>England,</hi> and is thereby become the Law of <hi>England,</hi> and in truth ſo much of the civill Law as hath been anciently uſed in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is the common Law of <hi>England</hi> in thoſe caſes.</p>
+            <p n="2">2. Though the Univerſity Courts of <hi>Oxford</hi> and <hi>Cambridge</hi> do <hi>in formula juris,</hi> that is to ſay, in the method of their procedings, ſeem ra<g ref="char:EOLhyphen"/>ther to follow the eccleſiaſtical Courts, then the common law. Courts &amp; the advocats there are civilians, yet in truth they are no eccleſiaſtical Courts, but Courts of Law and equity mixt, eſtabliſhed by uſage, Let<g ref="char:EOLhyphen"/>ters Patents and Acts of Parliament, and their judgements and ſen<g ref="char:EOLhyphen"/>tences doe bind the perſon and goods to execution, and are as the Court of the Marſhes of <hi>Wales</hi> that were mixt of law and equity, and ſo though they have a peculiar juriſdiction in reſpect of the place, yet in their judgements and ſentences they muſt judge <hi>ſecundum legem terrae,</hi> as the ſuperior Courts of Law or equity would do in thoſe caſes.</p>
+            <p>From all which I conclude that the Univerſity Court of <hi>Oxford</hi> cannot give damages againſt <hi>All-Soules</hi> Colledge in this caſe.</p>
+            <closer>
+               <dateline>
+                  <date>November <hi>10, 1656.</hi>
+                  </date>
+               </dateline>
+               <signed>George Starkey.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
